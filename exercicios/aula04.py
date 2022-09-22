@@ -6,7 +6,7 @@
 """
 
 # Exemplo 1
-def func(*args):    # args, empacotameneto e desenpacotamento
+def func(*args):    # args, empacotameneto e desempacotamento
     print(args)
 
 lista = [1,2,3,4,5]
