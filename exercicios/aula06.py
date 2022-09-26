@@ -1,6 +1,7 @@
 """
 Expressões lambda (funções anônimas) em Python
 """
+
 # Exemplo 1
 preco = 1000
 
