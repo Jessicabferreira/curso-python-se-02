@@ -1,5 +1,6 @@
 """
 Combinations, Permutatios e Product - Itertools
+
 """
 
 # Exemplo 1
