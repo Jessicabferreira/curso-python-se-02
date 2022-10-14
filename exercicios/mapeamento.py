@@ -1,6 +1,7 @@
 """
 Map, Filter e Reduce
 """
+
 from dados import produtos, pessoas, lista
 from functools import reduce
 
